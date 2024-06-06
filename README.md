@@ -11,7 +11,8 @@ Skematik Rangkaian 280 Baterai Seri dan Paralel
 
 ![Screenshot (234)](https://github.com/FarrelFirmansyah/Farrel/assets/171840782/ea761b5f-c9bc-4e48-ad80-cf212ea09e34)
 
-4.berikutnya dilakukan pengukuran dengan voltmeter dan ammeternya
+4.berikutnya dilakukan pengukuran dengan voltmeter dan ammeternya. masuk kedalam bagian instrumen yang ada pada proteus untuk mencari multimeter pengukur tegangan dan arusnya.
+
 ![Screenshot (235)](https://github.com/FarrelFirmansyah/Farrel/assets/171840782/ed4cc3fe-977b-49e5-b405-ee73d44dbe54)
 untuk tegangan total yang di dapatkan = 73V
 
