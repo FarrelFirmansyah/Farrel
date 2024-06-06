@@ -1,7 +1,7 @@
 # Farrel
 Skematik Rangkaian 280 Baterai Seri dan Paralel 
 
-1. Pada rangkaian skematik rangkaian baterai ini, dilakukan perangkaian seri baterai sebanyak 20 buah
+1. Pada rangkaian skematik baterai ini, dilakukan perangkaian seri baterai sebanyak 20 buah
 ![Screenshot (229)](https://github.com/FarrelFirmansyah/Farrel/assets/171840782/4e3310d2-62ed-4b82-9ac1-1b6d300e99e0)
 
 2. setelah 20 buah rangkaian seri itu terbuat, lalu buat rangkaian itu sebanyak 14 bagian dan di paralelkan
